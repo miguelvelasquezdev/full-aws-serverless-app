@@ -1,1 +1,0 @@
-# full-aws-serverless-app
